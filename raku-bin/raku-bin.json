@@ -10,8 +10,8 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://rakudo.org/dl/rakudo/rakudo-moar-2022.04-01-linux-x86_64-gcc.tar.gz",
-            "sha256": "48f5e4dd14fa906a9c1dfb5cea8f269a6abc43d5883dc1e97b6105ba4e94a51a",
+            "url": "https://rakudo.org/dl/rakudo/rakudo-moar-2022.06-01-linux-x86_64-gcc.tar.gz",
+            "sha256": "f934f08b864a5c3e2eff1926fbdd28a0044501aa769541f4154dcd140101d3b9",
             "only-arches": [
                 "x86_64"
             ],
