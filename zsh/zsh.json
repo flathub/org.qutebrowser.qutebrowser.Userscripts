@@ -18,8 +18,8 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://www.zsh.org/pub/zsh-5.8.1.tar.xz",
-            "sha256": "b6973520bace600b4779200269b1e5d79e5f505ac4952058c11ad5bbf0dd9919",
+            "url": "https://www.zsh.org/pub/zsh-5.9.tar.xz",
+            "sha256": "9b8d1ecedd5b5e81fbf1918e876752a7dd948e05c1a0dba10ab863842d45acd5",
             "x-checker-data": {
                 "type": "anitya",
                 "project-id": 5307,
