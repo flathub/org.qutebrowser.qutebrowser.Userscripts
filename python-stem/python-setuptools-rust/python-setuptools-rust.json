@@ -17,7 +17,6 @@
         }
     ],
     "modules": [
-        "../python-semantic-version/python-semantic-version.json",
-        "../python-typing-extensions/python-typing-extensions.json"
+        "../python-semantic-version/python-semantic-version.json"
     ]
 }
