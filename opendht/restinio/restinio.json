@@ -18,8 +18,8 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://github.com/Stiffstream/restinio/releases/download/v.0.6.14/restinio-0.6.14.tar.bz2",
-            "sha256": "b75bb9a1b843a05968eb696eda41029b76a3833bd056e8fb00cd68853fc97796",
+            "url": "https://github.com/Stiffstream/restinio/releases/download/v.0.6.15/restinio-0.6.15.tar.bz2",
+            "sha256": "e5b9363f97af063c718c0744e6135c9476b9275812750a00ea0a957c2809dbc9",
             "x-checker-data": {
                 "type": "anitya",
                 "project-id": 242022,
