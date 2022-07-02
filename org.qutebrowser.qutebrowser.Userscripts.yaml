@@ -2,7 +2,7 @@ app-id: org.qutebrowser.qutebrowser.Userscripts
 branch: beta
 runtime: org.qutebrowser.qutebrowser
 runtime-version: beta
-sdk: org.kde.Sdk//6.2
+sdk: org.kde.Sdk//6.3
 build-extension: true
 separate-locales: false
 appstream-compose: false
