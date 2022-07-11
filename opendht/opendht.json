@@ -16,13 +16,13 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://github.com/savoirfairelinux/opendht/archive/2.4.5/opendht-2.4.5.tar.gz",
-            "sha256": "4442bd20309f90f26579cff1b23eef1162851834b1d264995a44df0079ad57cb",
+            "url": "https://github.com/savoirfairelinux/opendht/archive/v2.4.8/opendht-2.4.8.tar.gz",
+            "sha256": "49dcdd12120678f3548a47206e60074ef0f4eb798ca5d213efd5cf1e2d70127b",
             "x-checker-data": {
                 "type": "anitya",
                 "project-id": 12935,
                 "stable-only": true,
-                "url-template": "https://github.com/savoirfairelinux/opendht/archive/$version/opendht-$version.tar.gz"
+                "url-template": "https://github.com/savoirfairelinux/opendht/archive/v$version/opendht-$version.tar.gz"
             }
         },
         {
