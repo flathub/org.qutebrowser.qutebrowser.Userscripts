@@ -5,6 +5,9 @@
         "python-installer/python-installer.json",
         "python-flit-core/python-flit-core.json",
         "python-typing-extensions/python-typing-extensions.json",
-        "python-setuptools-scm/python-setuptools-scm.json"
+        "python-setuptools/python-setuptools.json",
+        "python-setuptools-scm/python-setuptools-scm.json",
+        "python-pip/python-pip.json",
+        "python-wheel/python-wheel.json"
     ]
 }
