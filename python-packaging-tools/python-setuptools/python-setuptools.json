@@ -1,0 +1,22 @@
+{
+    "name": "python-setuptools",
+    "buildsystem": "simple",
+    "build-commands": [
+        "pip3 install --verbose --ignore-installed --exists-action=i --no-index --find-links=file://${PWD} --prefix=${FLATPAK_DEST} setuptools --no-build-isolation"
+    ],
+    "sources": [
+        {
+            "type": "file",
+            "url": "https://files.pythonhosted.org/packages/ae/7f/6d816941769a7783be4258dd35e28bbf1a64bb36b1b7e0c773eff07fb0a8/setuptools-63.1.0-py3-none-any.whl",
+            "sha256": "db3b8e2f922b2a910a29804776c643ea609badb6a32c4bcc226fd4fd902cce65",
+            "x-checker-data": {
+                "type": "pypi",
+                "name": "setuptools",
+                "packagetype": "bdist_wheel"
+            }
+        }
+    ],
+    "cleanup": [
+        "*"
+    ]
+}
